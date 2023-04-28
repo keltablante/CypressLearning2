@@ -1,0 +1,10 @@
+{
+    "appURL": "https://admin-demo.nopcommerce.com/",
+    "appURL_QA" : "https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F",
+    "appURL_Stage" : "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+    "username" : "admin@yourstore.com",
+    "password" : "admin",
+    "orangehrm": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+    "orangeUsername" : "Admin",
+    "orangePassword" : "admin123"
+}

@@ -1,0 +1,13 @@
+{
+
+
+
+    "customerEmailField" : "input[name=\"SearchEmail\"]",
+    "customerSearchButton" : "button#search-customers",
+    "itemToVerify" : "tr.odd td:contains(\"victoria_victoria@nopCommerce.com\")",
+    "menuCustomer" : "a[href=\"/Admin/Customer/List\"] > p",
+    "menuCustomerModule" : "a[href=\"/Admin/Customer/List\"] > p",
+    "expectedUsername" : "admin@yourstore.com",
+    "expectedPassword" : "admin",
+    "checkbox" : "input#RememberMe"
+}

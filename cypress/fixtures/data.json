@@ -1,0 +1,15 @@
+{
+    "amazonURL" : "https://www.amazon.com/",
+    "amazonInURL" : "https://www.amazon.in/",
+    "herokuUploadURL" : "https://the-internet.herokuapp.com/upload",
+    "testUpload" : "C:/Users/Michael/Desktop/",
+    "checkboxActivityURL" : "http://only-testing-blog.blogspot.com/2013/11/new-test.html",
+    "alertURL" : "http://www.uitestpractice.com/Students/Switchto",
+    "zohoURL" : "https://www.zoho.com/commerce/free-demo.html",
+    "dummyURL" : "https://www.dummyticket.com/dummy-ticket-for-visa-application/",
+    "demoGuruURL" : "https://demo.guru99.com/test/simple_context_menu.html",
+    "dhtmlgoodiesURL" : "http://www.dhtmlgoodies.com/scripts/drag-drop-custom/demo-drag-drop-3.html",
+    "nopCommerceURL" : "https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F",
+    "nopUsername" : "admin@yourstore.com",
+    "nopPassword" : "admin"
+}

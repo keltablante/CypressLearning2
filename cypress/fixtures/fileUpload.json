@@ -1,0 +1,5 @@
+{
+    "herokuUploadURL" : "https://the-internet.herokuapp.com/upload",
+    "fileUpload" : "#file-upload",
+    "fileSubmit" : "#file-submit"
+}
